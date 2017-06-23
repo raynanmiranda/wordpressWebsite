@@ -1,0 +1,139 @@
+/*
+    Style for wp-full-stripe forms.  Mostly a cut down version of Twitter Bootstrap css
+    made so it doesn't interfere with the current theme
+*/
+
+.payment-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.payment-form input[type="text"],
+.payment-form input[type="password"] {
+    display: inline-block;
+    padding: 4px 6px;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.payment-form legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+/* bootstrap horizontal form */
+.payment-form.form-horizontal input {
+    display: inline-block;
+    *display: inline;
+    /* IE7 inline-block hack */
+
+    *zoom: 1;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+.payment-form.form-horizontal .control-group {
+    margin-bottom: 20px;
+    *zoom: 1;
+}
+
+.payment-form.form-horizontal .control-group:before,
+.payment-form.form-horizontal .control-group:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+
+.payment-form.form-horizontal .control-group:after {
+    clear: both;
+}
+
+.payment-form.form-horizontal .control-label {
+    float: left;
+    width: 160px;
+    padding-top: 5px;
+    text-align: right;
+}
+
+.payment-form.form-horizontal .controls {
+    *display: inline-block;
+    *padding-left: 20px;
+    margin-left: 180px;
+    *margin-left: 0;
+}
+
+.payment-form.form-horizontal .controls:first-child {
+    *padding-left: 180px;
+}
+
+.payment-form.form-horizontal .help-block {
+    margin-bottom: 0;
+}
+
+.payment-form.form-horizontal input + .help-block,
+.payment-form.form-horizontal select + .help-block,
+.payment-form.form-horizontal textarea + .help-block,
+.payment-form.form-horizontal .uneditable-input + .help-block,
+.payment-form.form-horizontal .input-prepend + .help-block,
+.payment-form.form-horizontal .input-append + .help-block {
+    margin-top: 10px;
+}
+
+.payment-form.form-horizontal .form-actions {
+    padding-left: 180px;
+}
+
+.payment-form input[type="submit"].btn-block,
+.payment-form input[type="reset"].btn-block,
+.payment-form input[type="button"].btn-block {
+    width: 100%;
+}
+
+/* size classes */
+.payment-form .input-mini {
+    width: 60px;
+}
+
+.payment-form .input-small {
+    width: 90px;
+}
+
+.payment-form .input-medium {
+    width: 150px;
+}
+
+.payment-form .input-large {
+    width: 210px;
+}
+
+.payment-form .input-xlarge {
+    width: 270px;
+}
+
+.payment-form .input-xxlarge {
+    width: 530px;
+}
+
+.payment-form-custom label {
+    width: 100%;
+}
+
+.payment-form-compact input {
+    border: 1px solid #B3B3B3;
+    width: 100%;
+    -moz-border-radius: 3px;
+}
+
+.payment-form-compact textarea {
+    border: 1px solid #B3B3B3;
+    width: 100%;
+    -moz-border-radius: 3px;
+}
+
+.payment-form-compact select {
+    border: 1px solid #B3B3B3;
+    width: 100%;
+    -moz-border-radius: 3px;
+}

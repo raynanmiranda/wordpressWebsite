@@ -1,0 +1,47 @@
+.par-page-titler {
+    border: 1px solid #000000;
+    padding: 5px 10px;
+}
+
+.par-page-title {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #000000;
+    display: block;
+    font-weight: bold;
+    padding: 5px;
+}
+
+/** Customizer Help info Styles **/
+.help-info {
+    border: 1px solid #BCBCBC;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.help-info-title {
+    border: 1px solid #BCBCBC;
+    padding: 5px;
+    position: absolute;
+    top: -35px;
+    background-color: #EEEEEE;
+}
+
+/** Customizer Exclude Catgory **/
+#ex-cat-wrap {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#ex-cat-wrap .chk-group {
+    width: 50%;
+}
+
+#ex-cat-wrap .chk-group.left {
+    float: left;
+}
+
+#ex-cat-wrap .chk-group.right {
+    float: right;
+}

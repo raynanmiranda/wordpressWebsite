@@ -1,0 +1,19 @@
+ul.ap-font-group li i {
+    width: 34px;
+    font-size: 27px;
+    padding: 5px;
+}
+ul.ap-font-group li {
+    display: inline-block;
+}
+ul.ap-font-group {
+    height: 200px;
+    overflow-x: scroll;
+}
+.fa_preview {
+    text-align: center;
+}
+i#fa_prev {
+    font-size: 59px;
+    text-align: center;
+}

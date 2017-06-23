@@ -1,0 +1,102 @@
+.page-options {
+    padding-bottom: 15px;
+}
+
+.page-options table {
+    width: 100%;
+}
+
+.page-options table th {
+    text-align: left;
+    width: 250px;
+}
+
+.poster_upload_btn {
+    border: 1px solid #ABABAB;
+    cursor: pointer;
+    display: block;
+    padding: 4px;
+    text-align: center;
+    width: 100px;
+    border-radius: 4px;
+    background-color: #F7F7F7;
+    font-weight: bold;
+}
+
+.page-options input[type="text"] {
+    width: 70%;
+}
+
+textarea#hm_poster_caption_descr {
+    height: 100px;
+    width: 70%;
+}
+
+.page-options .img_preview {
+    margin-top: 10px;
+}
+
+.page-options img {
+    width: 220px;
+    border: 1px solid #848484;
+}
+
+a.img-rem-btn {
+    font-weight: bold;
+    color: #A78C8C;
+    cursor: pointer;
+    padding-left: 5px;
+    border: 1px solid #A7A7A7;
+    padding-right: 5px;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+/** Admin Banner css **/
+.user_sticky_note {
+    padding: 15px;
+}
+
+.user_sticky_note .button{
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.admin-pro-feature-list li{
+ 
+    border-bottom: 1px solid #DBDBDB;
+    margin: 0;
+    padding: 10px 0px;
+    line-height: 1;
+}
+.admin-pro-feature-list li:before{
+     content: "\f345";
+    font: 400 20px/1 dashicons;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 5px;
+ 
+ }
+.admin-pro-feature-list span{
+     display: inline-block;
+    width: 90%;
+    vertical-align: top;}
+.admin-pro-feature-list{
+    margin: 0 5px;
+}
+.buynow{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;}
+
+.upgrade-pro{
+    background-color: #e24545;
+    color: #FFF !important;
+    font-size: 12px;
+    padding: 5px;
+    line-height: 1;
+    display: block;
+    margin-top: 6px;
+    text-align: center;
+}

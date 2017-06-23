@@ -1,0 +1,932 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-02-13 05:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:18
+msgid "400"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+#, php-format
+msgid "ParallaxSome by %1$s."
+msgstr ""
+
+#. Author of the theme
+#: footer.php:26
+msgid "AccessPress Themes"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:69
+msgid "Top Header Menu"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:16
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:121
+msgid "Page"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:92
+msgid "Main"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:93
+msgid "Top Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:96 inc/customizer/homepage-panel.php:153
+#: template-parts/sections/section-about.php:16
+msgid "About"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:97
+msgid "About Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:101 inc/customizer/homepage-panel.php:292
+#: template-parts/sections/section-team.php:16
+msgid "Our Team"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:104
+msgid "Services"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:105 inc/customizer/homepage-panel.php:453
+#: template-parts/sections/section-services.php:16
+msgid "Our Services"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:109
+msgid "Client Says"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:113
+msgid "Fact Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:116 inc/parallaxsome-functions.php:117
+#: inc/customizer/homepage-panel.php:1034
+#: template-parts/sections/section-portfolio.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:120
+msgid "Blog"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:121 inc/customizer/homepage-panel.php:1172
+#: template-parts/sections/section-blog.php:16
+msgid "Our Blog"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:125 inc/customizer/homepage-panel.php:1357
+#: template-parts/sections/section-clients.php:16
+msgid "Our Clients"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:128
+msgid "Contact"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:129 inc/customizer/homepage-panel.php:1497
+#: template-parts/sections/section-contact.php:16
+msgid "Contact Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:267
+#: template-parts/sections/section-services.php:68
+msgid "Learn More"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:315
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:31 inc/template-tags.php:76 inc/template-tags.php:122
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:36 inc/template-tags.php:81 inc/template-tags.php:127
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post title
+#. %s: post title
+#. %s: post title
+#: inc/template-tags.php:45 inc/template-tags.php:90 inc/template-tags.php:136
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:155 template-parts/content-single.php:25
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:157
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:164 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-archive.php:28 template-parts/content-search.php:23
+#: template-parts/content.php:28 inc/customizer/homepage-panel.php:1244
+#: template-parts/sections/section-blog.php:33
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:47
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:27
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:42
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:30
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:42
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:54
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:55
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:56
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:57
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:58
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:59
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/design-panel.php:33
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:45
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:67
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:68 inc/customizer/design-panel.php:131
+#: inc/customizer/design-panel.php:187
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/design-panel.php:72 inc/customizer/design-panel.php:135
+#: inc/customizer/design-panel.php:191 inc/customizer/footer-panel.php:70
+#: inc/widgets/parallaxsome-widget-functions.php:36
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:76 inc/customizer/design-panel.php:139
+#: inc/customizer/design-panel.php:195 inc/customizer/footer-panel.php:74
+#: inc/widgets/parallaxsome-widget-functions.php:21
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:80 inc/customizer/design-panel.php:143
+#: inc/customizer/design-panel.php:199 inc/customizer/footer-panel.php:78
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:84 inc/customizer/design-panel.php:147
+#: inc/customizer/design-panel.php:203 inc/customizer/footer-panel.php:82
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/customizer/design-panel.php:108
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:130
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:164
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:186
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:30
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:43
+msgid "Footer Widget Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:65
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:66
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:99
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:113
+msgid "2016 ParallaxSome"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:122
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/general-panel.php:39
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:20
+msgid "Innerpages Header Image"
+msgstr ""
+
+#: inc/customizer/header-panel.php:36
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:48
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:72
+msgid "Top Header Option"
+msgstr ""
+
+#: inc/customizer/header-panel.php:73
+msgid "Show/hide option for Top Header Section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:76 inc/customizer/header-panel.php:106
+#: inc/customizer/header-panel.php:237 inc/customizer/homepage-panel.php:68
+#: inc/customizer/homepage-panel.php:137 inc/customizer/homepage-panel.php:276
+#: inc/customizer/homepage-panel.php:437 inc/customizer/homepage-panel.php:658
+#: inc/customizer/homepage-panel.php:773 inc/customizer/homepage-panel.php:1018
+#: inc/customizer/homepage-panel.php:1156
+#: inc/customizer/homepage-panel.php:1341
+#: inc/customizer/homepage-panel.php:1481
+#: inc/customizer/parallaxsome-sanitize.php:40
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/header-panel.php:77 inc/customizer/header-panel.php:107
+#: inc/customizer/header-panel.php:238 inc/customizer/homepage-panel.php:69
+#: inc/customizer/homepage-panel.php:138 inc/customizer/homepage-panel.php:277
+#: inc/customizer/homepage-panel.php:438 inc/customizer/homepage-panel.php:659
+#: inc/customizer/homepage-panel.php:774 inc/customizer/homepage-panel.php:1019
+#: inc/customizer/homepage-panel.php:1157
+#: inc/customizer/homepage-panel.php:1342
+#: inc/customizer/homepage-panel.php:1482
+#: inc/customizer/parallaxsome-sanitize.php:41
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/header-panel.php:102
+msgid "Social Icons Option"
+msgstr ""
+
+#: inc/customizer/header-panel.php:103
+msgid "Show/hide option for Top Header Social Icon Section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:122
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:145
+msgid "Primary Menu Type"
+msgstr ""
+
+#: inc/customizer/header-panel.php:146
+msgid "Choose type of Primary Menu."
+msgstr ""
+
+#: inc/customizer/header-panel.php:149
+#: inc/customizer/parallaxsome-sanitize.php:74
+msgid "Parallax"
+msgstr ""
+
+#: inc/customizer/header-panel.php:150 inc/customizer/header-panel.php:178
+#: inc/customizer/parallaxsome-sanitize.php:75
+#: inc/customizer/parallaxsome-sanitize.php:91
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/header-panel.php:174
+msgid "Parallax Menu Type"
+msgstr ""
+
+#: inc/customizer/header-panel.php:175
+msgid "Choose type of Parallax Menu."
+msgstr ""
+
+#: inc/customizer/header-panel.php:179
+#: inc/customizer/parallaxsome-sanitize.php:92
+msgid "Float Menu"
+msgstr ""
+
+#: inc/customizer/header-panel.php:233
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:234
+msgid "Show/hide search icons on primary menu section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:262
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer/header-panel.php:263
+msgid "Enable/disable option for header sticky."
+msgstr ""
+
+#: inc/customizer/header-panel.php:266
+#: inc/customizer/parallaxsome-sanitize.php:57
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/header-panel.php:267
+#: inc/customizer/parallaxsome-sanitize.php:58
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:29
+msgid "HomePage Settings"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:41
+msgid "Slider Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:64
+msgid "Slider Option"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:65
+msgid "Show/hide option for homepage Slider Section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:93
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:94
+msgid "Select cateogry for Homepage Slider Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:109
+msgid "About Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:133 inc/customizer/homepage-panel.php:272
+#: inc/customizer/homepage-panel.php:433 inc/customizer/homepage-panel.php:654
+#: inc/customizer/homepage-panel.php:769 inc/customizer/homepage-panel.php:1014
+#: inc/customizer/homepage-panel.php:1152
+#: inc/customizer/homepage-panel.php:1337
+#: inc/customizer/homepage-panel.php:1477
+msgid "Section Option"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:134
+msgid "Show/hide option for Homepage About Section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:162 inc/customizer/homepage-panel.php:301
+#: inc/customizer/homepage-panel.php:462 inc/customizer/homepage-panel.php:683
+#: inc/customizer/homepage-panel.php:798 inc/customizer/homepage-panel.php:1043
+#: inc/customizer/homepage-panel.php:1181
+#: inc/customizer/homepage-panel.php:1366
+#: inc/customizer/homepage-panel.php:1506
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:176
+#: template-parts/sections/section-about.php:17
+msgid "Who We Are"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:185 inc/customizer/homepage-panel.php:324
+#: inc/customizer/homepage-panel.php:485 inc/customizer/homepage-panel.php:706
+#: inc/customizer/homepage-panel.php:821 inc/customizer/homepage-panel.php:1066
+#: inc/customizer/homepage-panel.php:1204
+#: inc/customizer/homepage-panel.php:1389
+#: inc/customizer/homepage-panel.php:1529
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:208
+msgid "About us Page"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:209
+msgid "Select page for Homepage About Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:233
+msgid "Section Image"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:248
+msgid "Our Team Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:273
+msgid "Show/hide option for Homepage Our Team Section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:315 inc/customizer/homepage-panel.php:697
+#: template-parts/sections/section-team.php:17
+#: template-parts/sections/section-testimonials.php:17
+msgid "Group Together"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:347 inc/customizer/homepage-panel.php:508
+#: inc/customizer/homepage-panel.php:844 inc/customizer/homepage-panel.php:1089
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:370 inc/customizer/homepage-panel.php:729
+#: inc/customizer/homepage-panel.php:1112
+#: inc/customizer/homepage-panel.php:1412
+msgid "Section Category"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:371
+msgid "Select cateogry for Homepage Our Team Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:386 inc/customizer/homepage-panel.php:1267
+#: template-parts/sections/section-blog.php:63
+#: template-parts/sections/section-team.php:69
+msgid "View All"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:395 inc/customizer/homepage-panel.php:1276
+msgid "View All Button"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:409
+msgid "Our Services Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:434
+msgid "Show/hide option for Homepage Our Services Section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:476 inc/customizer/homepage-panel.php:812
+#: template-parts/sections/section-fact.php:17
+#: template-parts/sections/section-services.php:17
+msgid "Our Works"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:532 inc/customizer/homepage-panel.php:868
+#: inc/customizer/homepage-panel.php:1438
+msgid "Section Background Image"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:562
+#, php-format
+msgid "%s Service"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:586
+msgid "Service Icon"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:587 inc/customizer/homepage-panel.php:927
+msgid "Choose the icon from lists."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:611
+msgid "Service Page"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:612
+msgid "Select page for Homepage Service Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:630
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:655
+msgid "Show/hide option for Homepage Testimonials Section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:674
+#: template-parts/sections/section-testimonials.php:16
+msgid "Clients Say"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:730
+msgid "Select cateogry for Homepage Testimonials Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:745
+msgid "Our Facts Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:770
+msgid "Show/hide option for Homepage Our Facts."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:789
+#: template-parts/sections/section-fact.php:16
+msgid "Fact About Us"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:900
+#, php-format
+msgid "%s Fact Counter"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:926
+msgid "Fact Icon"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:942
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:951
+msgid "Fact Title"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:974
+msgid "Fact Number"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:990
+msgid "PortFolio Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1015
+msgid "Show/hide option for Homepage Portfolio section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1057
+#: template-parts/sections/section-portfolio.php:17
+msgid "Best Porjects"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1113
+msgid "Select cateogry for Homepage Portfolio Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1128
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1153
+msgid "Show/hide option for Homepage Latest Blog section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1195
+#: inc/customizer/homepage-panel.php:1380
+#: template-parts/sections/section-blog.php:17
+#: template-parts/sections/section-clients.php:17
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1229
+msgid "Section Categories Lists"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1253
+msgid "Read More Button"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1299
+msgid "View All Button Link"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1313
+msgid "Our Clients Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1338
+msgid "Show/hide option for Homepage Our Clients section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1413
+msgid "Select cateogry for Homepage Our Clients Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1453
+msgid "Contact Us Section"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1478
+msgid "Show/hide option for Homepage Contact Us section."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1520
+#: template-parts/sections/section-contact.php:17
+msgid "More Info"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1554
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1555
+msgid "Use contact form 7 shortcode."
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1570
+#: template-parts/sections/section-contact.php:18
+msgid "(44) 123 456 7894"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1579
+msgid "Call Us"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1593
+#: template-parts/sections/section-contact.php:20
+msgid "Alaxender Avenue, Harrow, Middlesex, UK"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1602
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1616
+#: template-parts/sections/section-contact.php:21
+msgid "Locate Us on Map"
+msgstr ""
+
+#: inc/customizer/homepage-panel.php:1625
+msgid "Map Caption"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:76
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#. $id
+#: inc/metaboxes/page-metabox.php:16
+msgid "Page Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:29 inc/metaboxes/post-metabox.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:35 inc/metaboxes/post-metabox.php:35
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:41 inc/metaboxes/post-metabox.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:47 inc/metaboxes/post-metabox.php:47
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:53 inc/metaboxes/post-metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:68 inc/metaboxes/post-metabox.php:68
+msgid "Information"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:69 inc/metaboxes/post-metabox.php:69
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:76 inc/metaboxes/post-metabox.php:76
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:78 inc/metaboxes/post-metabox.php:78
+msgid ""
+"If we choose sidebar layout from the metabox optiin the page or post will "
+"show sidebar layout form the metabox and if we leave empty the sidebar "
+"layout will display form customizer->Design Setting."
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:84 inc/metaboxes/post-metabox.php:84
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:85 inc/metaboxes/post-metabox.php:85
+msgid ""
+"Select sidebar from available options which replaced sidebar layout from "
+"customizer settings."
+msgstr ""
+
+#. $id
+#: inc/metaboxes/post-metabox.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:23
+msgid ""
+"Added widgets are display at Right Sidebar section in every "
+"posts/pages/archive."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:38
+msgid ""
+"Added widgets are display at Left Sidebar section in every "
+"posts/pages/archive."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:51
+msgid "Contact Map"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:53
+msgid "Added widgets are display at Contact Us section at homepage."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:66
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:68
+msgid ""
+"Added widgets are display at Sidebar section only in woocommerce "
+"posts/pages/archives."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:81
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:83
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: template-parts/sections/section-contact.php:36
+msgid "Call us:"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:40
+msgid "visit us:"
+msgstr ""
+
+#. Name of the theme
+msgid "ParallaxSome"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"ParallaxSome is a beautiful free responsive one page WordPress theme with "
+"awesome parallax scrolling effect. It is a highly customizable and flexible "
+"WP template suitable for multipurpose websites like business, agency, blog, "
+"portfolio, eCommerce etc. It is a fully responsive theme  that fits "
+"perfectly on any device. ParallaxSome theme comes with various homepage "
+"sections each beautifully designed. Each of the home page sections in your "
+"single page site can be further customized with easy to use customization "
+"options. The theme is based on WordPress Live Customizer that allows you to "
+"customize the complete theme instantly. It is clean, simple, SEO friendly, "
+"flexible, multilingual, and feature-rich theme for modern websites."
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/parallaxsome"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""

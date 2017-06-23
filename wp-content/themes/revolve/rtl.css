@@ -1,0 +1,206 @@
+/*
+Theme Name: Revolve
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+/*
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+*/
+
+#revolve-side-nav{
+	left: 0;
+	right: auto;
+}
+
+.revolve-site-header{
+	left: 0;
+	right: auto;
+}
+
+body:first-of-type #revolve-home-slider, body:first-of-type #revolve-page-content {
+    margin-left: 130px;
+    margin-right: auto;
+}
+
+.revolve-bar {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.revolve-cap-text {
+    float: right;
+}
+
+.revolve-move-down {
+    left: 50px;
+}
+.page-template-default .entry-header h1:before, .single-portfolio-post .entry-header h1:before, .single-post .entry-header h1:before {
+    right: 0;
+}
+.page-template-default .entry-header h1, .single-portfolio-post .entry-header h1, .single-post .entry-header h1{
+	padding-left:0;
+    padding-right:50px;
+}
+.single-portfolio-post .comments-area form p label, .single-post .comments-area form p label{
+	float:right;
+}
+.revole-page-header:after {
+    top: 58px;
+    left:auto;
+    right: 0;
+}
+.sub-block-header {
+	border-left:0;
+    border-right: 25px solid #E11B30;
+}
+.sub-block-title{
+	left:auto;
+	right:30px;
+}
+.blog-post-wrap{
+	text-align:right;
+}
+.blog-post-wrap .entry-summary{
+	overflow:hidden;
+}
+.blog-page-header .title_section {
+    padding-right: 86px;
+    padding-left: 20px;
+   	-ms-transform: translate(50px, -50%);
+    -webkit-transform: translate(50px, -50%);
+    transform: translate(50px, -50%);
+}
+.blog-page-header .title_section h2:before {
+    margin-right:0;
+    margin-left: 20px;
+    left:auto;
+    right: -85px;
+}
+#team-control .team-lays{
+	float:right;
+}
+#team-control .team-search{
+	float:left;
+}
+.team-tile-layout .team-image-wrap .team-image{
+	float:right;
+}
+.team-tile-layout .team-image-wrap .team-member-name, .team-tile-layout .team-image-wrap.active .team-member-name{
+	text-align:right;
+}
+.team-inner-image {
+    text-align: right;
+    float: left;
+    padding-left:0;
+    padding-right: 20px;
+}
+.team-info-block .close-team-info {
+	right:auto;
+    left: 20px;
+}
+.team-inner-info h2:before {
+    right: -39px;
+}
+.team-list-layout .team-info-block .close-team-info{
+	left:0;
+	text-align:left;
+}
+.viewbox-button-close{
+	left:10px;
+	right:auto;
+}
+.main-navigation ul ul li.active a{
+	    box-shadow: 0;
+}
+.revolve-move-down{
+	right:auto;
+	left:50px;
+}
+.revolve-bar{
+	float:right;
+}
+.revolve-sliders-captions {
+    -ms-transform: translate(50px, -50%);
+    -webkit-transform: translate(50px, -50%);
+    transform: translate(50px, -50%);
+}
+.menu .mCSB_container li.active > a, .menu .mCSB_container li > a:hover, .menu .mCSB_container .current_page_item > a, .menu .mCSB_container .current-menu-item > a {
+    box-shadow: -8px 0px 0px #E11B30;
+    margin-right:0;
+}
+.menu .mCSB_container li > a:hover {
+    right: -1px;
+    left:auto;
+    margin-left: 7px;
+    margin-right:0;
+    border-left:0;
+}
+.menu .mCSB_container li ul li a:hover{
+	margin-left:0;
+}
+#revolve-side-nav{
+	border-left:0;
+	border-right:1px solid #eee;
+}
+.main-navigation ul.sub-nav li a:hover{
+	padding-right:1px;
+    padding-left: 15px;
+}
+.revolve-page-header-left{
+	border-left:0;
+	border-left: 2px solid #EEE;
+}
+.blog-post-wrap .entry-summary{
+	padding: 40px 24px 40px 40px;
+}
+.header-social-icons-container{
+	right:auto;
+	left:0;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+	text-align:left;
+}
+.blog-post-wrap .entry-summary .blog-post-title{
+	left:auto;
+	right:0;
+	padding-right:0;
+}
+.menu .mCSB_container li > a{
+	margin-right:0;
+	text-align:center;
+}
+.blog-post-wrap:hover .entry-summary .blog-post-title{
+	padding-right:24px;
+}
+.blog-post-wrap .entry-summary .blog-post-title:before{
+	left:auto;
+	right: -24px;
+}
+.wd-feat-post-title{
+	padding-right:24px;
+	padding-left:0;
+}
+.wd-feat-post-title:before {
+	left:auto;
+    right: -24px;
+}
+.revolve-slider-widget .hm-feat-post-wrap:hover h2{
+	left:auto;
+	right:18px;
+}
+.team-list-block .team-image-wrap{
+	float:right;
+}
+.team-info-block {
+    position: relative;
+    padding: 40px 20px;
+}

@@ -1,0 +1,641 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-09-16 19:02:07+00:00\n"
+"POT-Revision-Date: Tue Jun 14 2016 15:29:26 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:40 ../comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43 ../comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Scroll Page"
+msgstr ""
+
+#. Name of the template
+msgid "Team"
+msgstr ""
+
+#: ../tpl-team.php:75 ../template-parts/arch-team.php:48
+msgid "Mr. Team Member"
+msgstr ""
+
+#: ../inc/customizer.php:21
+msgid "Header Logo"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:123
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../inc/revolve-custom-menu.php:127
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:140
+msgid "sub item"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:155
+msgid "Move up"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:168
+msgid "Move down"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:170 ../inc/revolve-custom-menu.php:172
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:181
+msgid "URL"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:188
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:194
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:201
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:206
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:212
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:218
+msgid "Description"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:220
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:226
+msgid "Move"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:227
+msgid "Up one"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:228
+msgid "Down one"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:231
+msgid "To the top"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:239
+msgid "Display Sub pages as Sub-Sections"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:248
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:261 ../inc/widgets/widget-fields.php:174 ..
+#: /inc/widgets/widget-fields.php:183
+msgid "Remove"
+msgstr ""
+
+#: ../inc/revolve-custom-menu.php:262
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:8
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:49
+msgid "Home Slider Options"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:55
+msgid "Display as Slider : "
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:58
+msgid "Check to display as homeslider"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:63
+msgid "Poster Image : "
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:66 ../inc/widgets/widget-fields.php:172
+msgid "Upload"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:76
+msgid "Poster Caption Title : "
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:82
+msgid "Poster Caption Description : "
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:91
+msgid "Page ID"
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:102
+msgid "Page ID : "
+msgstr ""
+
+#: ../inc/revolve-custom-metabox.php:105
+msgid "If left empty default slug of the page will be used"
+msgstr ""
+
+#: ../inc/revolve-widgets.php:25
+msgid "Widget 1"
+msgstr ""
+
+#: ../inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:50 ../inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../inc/template-tags.php:71 ../template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:8 ../inc/cmizer/page-options.php:16
+msgid "Blog Page Setting"
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:9 ../inc/cmizer/misc-options.php:10 ..
+#: /inc/cmizer/page-options.php:17
+msgid "Configure Blog Page."
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:17
+msgid "Blog Page"
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:18
+msgid "Configure Blog Page"
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:29
+msgid "Exclude Category"
+msgstr ""
+
+#: ../inc/cmizer/blog-page-options.php:43
+msgid "Feature Post"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:8
+msgid "Home Slider Setting"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:9
+msgid "Configure Home Slider."
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:17
+msgid "Home Slide"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:18
+msgid "Configure Home Slide"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:29
+msgid "Select Image"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:41 ../inc/cmizer/home-slider-options.php:
+#: 89 ../inc/cmizer/home-slider-options.php:151 ../inc/cmizer/home-slider-options.
+#: php:213 ../inc/cmizer/home-slider-options.php:274 ../inc/cmizer/home-slider-
+#: options.php:336 ../inc/cmizer/home-slider-options.php:398 ../inc/cmizer/home-
+#: slider-options.php:460 ../inc/cmizer/home-slider-options.php:522
+msgid "Caption Title"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:53 ../inc/cmizer/home-slider-options.php:
+#: 101 ../inc/cmizer/home-slider-options.php:163 ../inc/cmizer/home-slider-
+#: options.php:225 ../inc/cmizer/home-slider-options.php:286 ../inc/cmizer/home-
+#: slider-options.php:348 ../inc/cmizer/home-slider-options.php:410 ..
+#: /inc/cmizer/home-slider-options.php:472 ../inc/cmizer/home-slider-options.php:
+#: 534
+msgid "Caption Content"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:65
+msgid "Slide 1"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:66
+msgid "Configure Slide 1"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:77 ../inc/cmizer/home-slider-options.php:
+#: 139 ../inc/cmizer/home-slider-options.php:201 ../inc/cmizer/home-slider-
+#: options.php:262 ../inc/cmizer/home-slider-options.php:324 ../inc/cmizer/home-
+#: slider-options.php:386 ../inc/cmizer/home-slider-options.php:448 ..
+#: /inc/cmizer/home-slider-options.php:510
+msgid "Select Page"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:115 ../inc/cmizer/home-slider-options.
+#: php:177 ../inc/cmizer/home-slider-options.php:239 ../inc/cmizer/home-slider-
+#: options.php:300 ../inc/cmizer/home-slider-options.php:362 ../inc/cmizer/home-
+#: slider-options.php:424 ../inc/cmizer/home-slider-options.php:486 ..
+#: /inc/cmizer/home-slider-options.php:548
+msgid "Select Widget"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:127
+msgid "Slide 2"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:128
+msgid "Configure Slide 2"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:189
+msgid "Slide 3"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:190
+msgid "Configure Slide 3"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:250
+msgid "Slide 4"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:251
+msgid "Configure Slide 4"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:312
+msgid "Slide 5"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:313
+msgid "Configure Slide 5"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:374
+msgid "Slide 6"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:375
+msgid "Configure Slide 6"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:436
+msgid "Slide 7"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:437
+msgid "Configure Slide 7"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:498
+msgid "Slide 8"
+msgstr ""
+
+#: ../inc/cmizer/home-slider-options.php:499
+msgid "Configure Slide 8"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:9
+msgid "General Setting"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:17
+msgid "Social Icons"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:18
+msgid "Configure Social Icons for the site"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:27
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:28
+msgid "Enter the url for Facebook"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:39
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:40
+msgid "Enter the url for twitter"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:51
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:52
+msgid "Enter the url for Google+"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:63
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:64
+msgid "Enter the url for LinkedIn"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:75
+msgid "Youtube URL"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:76
+msgid "Enter the url for Youtube"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:96
+msgid "Site Identity"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:104
+msgid "Colors"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:112
+msgid "Static Front Page"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:121
+msgid "Display (Logo/Text)"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:125
+msgid "Text Only"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:126
+msgid "Logo Only"
+msgstr ""
+
+#: ../inc/cmizer/misc-options.php:127
+msgid "Both"
+msgstr ""
+
+#: ../inc/cmizer/page-options.php:8
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/cmizer/page-options.php:9
+msgid "Configure All Pages"
+msgstr ""
+
+#: ../inc/cmizer/portfolio-page-options.php:8
+msgid "Portfolio Page Setting"
+msgstr ""
+
+#: ../inc/cmizer/portfolio-page-options.php:9
+msgid "Configure Portfolio Page."
+msgstr ""
+
+#: ../inc/cmizer/portfolio-page-options.php:17
+msgid "Portfolio Page"
+msgstr ""
+
+#: ../inc/cmizer/portfolio-page-options.php:18
+msgid "Configure Portfolio Page"
+msgstr ""
+
+#: ../inc/cmizer/portfolio-page-options.php:29
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../inc/cmizer/revolve-extra-controls.php:183
+msgid "Instruction"
+msgstr ""
+
+#: ../inc/cmizer/team-page-options.php:8
+msgid "Team Page Setting"
+msgstr ""
+
+#: ../inc/cmizer/team-page-options.php:9
+msgid "Configure Team Page."
+msgstr ""
+
+#: ../inc/cmizer/team-page-options.php:17
+msgid "Team Page"
+msgstr ""
+
+#: ../inc/cmizer/team-page-options.php:18
+msgid "Configure Team Page"
+msgstr ""
+
+#: ../inc/cmizer/team-page-options.php:29
+msgid "Team Category"
+msgstr ""
+
+#: ../inc/widgets/widget-feature-post.php:24
+msgid "A widget that Shows Feature Post"
+msgstr ""
+
+#: ../inc/widgets/widget-feature-post.php:37
+msgid "Feature Post 1"
+msgstr ""
+
+#: ../inc/widgets/widget-feature-post.php:42
+msgid "Feature Post 2"
+msgstr ""
+
+#: ../inc/widgets/widget-feature-post.php:47
+msgid "Feature Post 3"
+msgstr ""
+
+#: ../inc/widgets/widget-fields.php:169
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/widgets/widget-fields.php:177
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/widgets/widget-fields.php:199
+msgid "View File"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:22 ../template-parts/content-portfolio.php:
+#: 41 ../template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: ../template-parts/content-portfolio.php:36 ../template-parts/content.php:45
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the theme
+msgid "Revolve"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/revolve/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Revolve is a simple and adaptable multipurpose WordPress theme suited for "
+"personal, blog, magazine, publishing and portfolio websites."
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://accesspressthemes.com/"
+msgstr ""

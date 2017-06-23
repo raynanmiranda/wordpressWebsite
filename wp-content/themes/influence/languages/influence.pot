@@ -1,0 +1,669 @@
+# Copyright (C) 2016 influence
+# This file is distributed under the same license as the influence package.
+msgid ""
+msgstr ""
+"Project-Id-Version: influence\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SiteOrigin <support@siteorigin.com>\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:39
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: admin/about/page-free.php:1
+msgid "Forever Free"
+msgstr ""
+
+#: admin/about/page-free.php:3
+msgid "Influence is a completely free WordPress theme."
+msgstr ""
+
+#: admin/about/page-free.php:4
+msgid "We'll continue developing and enhancing it for years to come."
+msgstr ""
+
+#: admin/about/page-github.php:1
+msgid "Developed on Github"
+msgstr ""
+
+#: admin/about/page-github.php:4
+msgid "Influence is actively %sdeveloped on Github%s."
+msgstr ""
+
+#: admin/about/page-github.php:5
+msgid "You can watch what's happening with its development and even make contributions yourself."
+msgstr ""
+
+#: admin/about/page-page-builder.php:1
+msgid "Enhanced by Page Builder"
+msgstr ""
+
+#: admin/about/page-page-builder.php:3
+msgid "Influence integrates, beautifully, with our %sfree Page Builder%s plugin."
+msgstr ""
+
+#: admin/about/page-page-builder.php:4
+msgid "This powerful plugin gives you full drag and drop capabilities right inside Influence."
+msgstr ""
+
+#: admin/about/page-support.php:1
+msgid "Support and Documentation"
+msgstr ""
+
+#: admin/about/page-support.php:3
+msgid "Our dedicated support team is ready to help you over on our %sfree support forums%s."
+msgstr ""
+
+#: admin/about/page-support.php:4
+msgid "You can also read through the %sInfluence documentation%s to get to know it even faster."
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32, comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33, comments.php:45
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34, comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:15, content-video.php:19, content-video.php:28, content.php:15, content.php:25, image.php:34, templates/template-full-no-title.php:23
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-page.php:32, templates/template-full-no-title.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-page.php:33, content-video.php:42, content.php:35, image.php:44, templates/template-full-no-title.php:34
+msgid "Pages:"
+msgstr ""
+
+#: content-video.php:48, content.php:41, image.php:50
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:23
+msgid "Theme by %1$s."
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Menu Sidebar"
+msgstr ""
+
+#: functions.php:149, inc/customizer.php:26
+msgid "Footer"
+msgstr ""
+
+#: functions.php:256
+msgid "Influence Plus"
+msgstr ""
+
+#: header.php:49, inc/settings.php:131, inc/template-tags.php:382, inc/template-tags.php:386
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:6, inc/settings.php:39
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:10
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:14
+msgid "Menu Bar"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Sidebar Menu"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Site Max Width"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Site Max Width With Sidebar"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer.php:62, inc/customizer.php:91
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Site Description Color"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Sidebar Background"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "Sidebar Background Image"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Widget Heading Color"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Widget Heading Size"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Widget Text"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Widget and Menu Links"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Heading Size"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:403
+msgid "Theme Design"
+msgstr ""
+
+#: inc/customizer/customizer.php:404
+msgid "Theme Specific Customizations For Origami"
+msgstr ""
+
+#: inc/customizer/customizer.php:585
+msgid "Are you sure you want to reset your theme customizations?"
+msgstr ""
+
+#: inc/customizer/customizer.php:586
+msgid "Reset Customizations"
+msgstr ""
+
+#: inc/extras.php:76
+msgid "Page %s"
+msgstr ""
+
+#: inc/legacy.php:5, inc/legacy.php:6, inc/settings.php:12
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/legacy.php:17
+msgid "Influence Settings Have Moved"
+msgstr ""
+
+#: inc/legacy.php:19
+msgid "Our theme settings now take advantage of the WordPress customizer."
+msgstr ""
+
+#: inc/legacy.php:20
+msgid "Navigate to <strong>Appearance > Customize > Theme Settings</strong> to access theme settings."
+msgstr ""
+
+#: inc/panels.php:17
+msgid "Basic Home Page"
+msgstr ""
+
+#: inc/panels.php:201
+msgid "This widget uses the <strong>SiteOrigin Widgets Bundle</strong> plugin. A free plugin that gives you a lot of widgets to use in your Page Builder pages."
+msgstr ""
+
+#: inc/panels.php:203, inc/settings.php:94
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: inc/panels.php:203
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/panels.php:204
+msgid "Free"
+msgstr ""
+
+#: inc/panels.php:225
+msgid "Features"
+msgstr ""
+
+#: inc/panels.php:226
+msgid "Display a list of features and icons."
+msgstr ""
+
+#: inc/settings.php:13
+msgid "Settings for your theme"
+msgstr ""
+
+#: inc/settings.php:14
+msgid "Premium Only"
+msgstr ""
+
+#: inc/settings.php:18
+msgid "Variant"
+msgstr ""
+
+#: inc/settings.php:19
+msgid "Subset"
+msgstr ""
+
+#: inc/settings.php:22
+msgid "Vantage Premium Upgrade"
+msgstr ""
+
+#: inc/settings.php:23
+msgid "Close"
+msgstr ""
+
+#: inc/settings.php:38, inc/settings.php:46
+msgid "Logo"
+msgstr ""
+
+#: inc/settings.php:40
+msgid "Home Page"
+msgstr ""
+
+#: inc/settings.php:41
+msgid "Layout"
+msgstr ""
+
+#: inc/settings.php:47, inc/settings.php:52
+msgid "Choose Image"
+msgstr ""
+
+#: inc/settings.php:48, inc/settings.php:53
+msgid "Set Logo"
+msgstr ""
+
+#: inc/settings.php:51
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/settings.php:54
+msgid "A double sized logo used on retina devices."
+msgstr ""
+
+#: inc/settings.php:57
+msgid "Scale Logo on Scroll"
+msgstr ""
+
+#: inc/settings.php:58
+msgid "Scale down the logo when scrolling down the screen."
+msgstr ""
+
+#: inc/settings.php:61
+msgid "Site Description"
+msgstr ""
+
+#: inc/settings.php:62
+msgid "Display your site description under your logo."
+msgstr ""
+
+#: inc/settings.php:69
+msgid "Menu Text"
+msgstr ""
+
+#: inc/settings.php:70
+msgid "The text displayed as your menu button."
+msgstr ""
+
+#: inc/settings.php:77, inc/settings.php:90
+msgid "Home Slider"
+msgstr ""
+
+#: inc/settings.php:79
+msgid "None"
+msgstr ""
+
+#: inc/settings.php:80
+msgid "Demo Slider"
+msgstr ""
+
+#: inc/settings.php:81
+msgid "Slider Widget"
+msgstr ""
+
+#: inc/settings.php:83
+msgid "Enter the shortcode that displays the slider on the home page."
+msgstr ""
+
+#: inc/settings.php:86
+msgid "Menu Overlaps Slider"
+msgstr ""
+
+#: inc/settings.php:87
+msgid "Should the menu overlap the home page slider."
+msgstr ""
+
+#: inc/settings.php:95
+msgid "Build a slider from your own images and videos."
+msgstr ""
+
+#: inc/settings.php:98
+msgid "Slider Margin"
+msgstr ""
+
+#: inc/settings.php:99
+msgid "Add a margin below the home page slider"
+msgstr ""
+
+#: inc/settings.php:106
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/settings.php:107
+msgid "Scale your layout for small screen devices."
+msgstr ""
+
+#: inc/settings.php:110
+msgid "Mobile Viewport Size"
+msgstr ""
+
+#: inc/settings.php:111
+msgid "Choose the width of the viewport for mobile devices when responsive is disabled."
+msgstr ""
+
+#: inc/settings.php:154
+msgid "Influence is an elegant blogging theme that focused on your content. It offers a whole new level of attention to detail."
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "<span class=\"meta-nav influence-icon-arrow-left\"></span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Newer posts <span class=\"meta-nav influence-icon-arrow-right\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:106
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: inc/template-tags.php:132
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "%s Logo"
+msgstr ""
+
+#: inc/template-tags.php:238
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:242
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:247
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:252
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:256
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:260
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:264
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:278, inc/template-tags.php:281
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:286
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: inc/template-tags.php:288
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: inc/template-tags.php:294
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: inc/template-tags.php:296
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: no-results.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: no-results.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12, searchform.php:13, searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: tour/tour.php:7
+msgid "Welcome to Influence"
+msgstr ""
+
+#: tour/tour.php:8
+msgid "Influence is our clean, modern blogging theme that'll help you influence the world with your message. It has integration with several plugins that also make it a great choice as a business theme. This guide will help you get Influence up and running in no time."
+msgstr ""
+
+#: tour/tour.php:13
+msgid "Upload Your Logo"
+msgstr ""
+
+#: tour/tour.php:14
+msgid "The first step to making your site uniquely your own is to upload your custom logo. Choose a logo image below, and it will replace the plain-text site title. Any size will work, but we recommend that you use a smaller version of your logo."
+msgstr ""
+
+#: tour/tour.php:20
+msgid "Upload Your Retina Logo"
+msgstr ""
+
+#: tour/tour.php:21
+msgid "A retina logo is a double-sized version of your standard logo. Vantage displays this version of your logo to users with high pixel density displays. Currently, these are most common on mobile devices, but they are starting to infiltrate desktop devices too."
+msgstr ""
+
+#: tour/tour.php:27
+msgid "Change the Slider"
+msgstr ""
+
+#: tour/tour.php:28
+msgid "The home page slider is a great place to show off your images or branding message. It supports most popular slider plugins. Enter the shortcode of the slider you're trying to add or select it from the dropdown list. If you select Slider Widget, you'll be able to build your slider in the theme settings by navigating to Appearance > Theme Settings, under the Home Page tab."
+msgstr ""
+
+#: tour/tour.php:34
+msgid "Remove SiteOrigin Attribution Link"
+msgstr ""
+
+#: tour/tour.php:35
+msgid "This setting lets you toggle the Theme By SiteOrigin link in your site's footer. If you're after a more professional look, it could be worth removing. We do, however, appreciate any users that decide to leave it in."
+msgstr ""
+
+#: tour/tour.php:41
+msgid "Change the Menu Text"
+msgstr ""
+
+#: tour/tour.php:42
+msgid "The simple, one button menu is a key feature of Influence. Make this your own by changing the text that Influence displays."
+msgstr ""
+
+#: tour/tour.php:50, tour/tour.php:54
+msgid "Install Page Builder"
+msgstr ""
+
+#: tour/tour.php:51
+msgid "Page Builder is the easiest way to create a site that makes you proud. Navigate to Appearance > Home Page in your WordPress admin to install it. After you've installed it, you will be able to create columnized pages using your widgets."
+msgstr ""
+
+#: tour/tour.php:64
+msgid "Install the Widgets Bundle"
+msgstr ""
+
+#: tour/tour.php:65
+msgid "The SiteOrigin Widgets Bundle gives you several widgets that you can add to your home page. These include buttons, sliders, images, price tables and more."
+msgstr ""
+
+#: tour/tour.php:68
+msgid "Install Widgets Bundle"
+msgstr ""
+
+#: tour/tour.php:76
+msgid "Additional Settings"
+msgstr ""
+
+#: tour/tour.php:77
+msgid "There are a lot of additional settings that we haven't covered in this brief tour. Navigate to Appearance > Theme Settings at any time to take a look. You'll be amazed at what you can accomplish with a few clicks."
+msgstr ""
+
+#: tour/tour.php:83
+msgid "Check Out Influence Plus"
+msgstr ""
+
+#: tour/tour.php:84
+msgid "You may have noticed that some settings and features are only available in Influence Plus. It's a free upgrade that gives you access to a lot of extra features. Take a look to see if this is something you might find useful."
+msgstr ""
+
+#: tour/tour.php:87
+msgid "More About Influence Plus"
+msgstr ""
+
+#: tour/tour.php:95
+msgid "Customize the Design"
+msgstr ""
+
+#: tour/tour.php:96
+msgid "Once you're done setting up Influence the way you like it, you can head over to the customizer to change how your site looks. Influence Plus has a lot of extra customization options."
+msgstr ""
+
+#: tour/tour.php:99
+msgid "Customize Design"
+msgstr ""
